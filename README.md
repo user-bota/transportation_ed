@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/akbota.serikkyzy/viz/TransportationBarrie
 
 ## Dashboard Preview
 
-![Dashboard Preview](Transportation Barriers.png)
+![Dashboard Preview](Transportation_Barriers.png)
 
 ## Overview
 
