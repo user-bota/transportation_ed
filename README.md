@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/akbota.serikkyzy/viz/TransportationBarrie
 
 ## Dashboard Preview
 
-![Dashboard Preview](Transportation_Barriers.png)
+![Dashboard Preview](transportation_ed.png)
 
 ## Overview
 
@@ -23,8 +23,7 @@ Not flagged = patients with no reported transportation barriers.*
 
 ## Key Findings
 
-* Flagged patients visit the ED at up to **2.7x the rate** of non-flagged peers
-  (13.4% vs 5.0%, ages 40–59).
+* Flagged patients visit the ED at nearly **3x the rate** of non-flagged peers (8.3% vs. 2.8%, ages 60–79)
 * Among patients **80+, flagged patients die at 4x the rate** of non-flagged
   peers (8.3% vs 2.1%) — the steepest mortality gap in the dataset.
 * Both the ED and mortality gaps **widen with age**, with the 60–79 and 80+
